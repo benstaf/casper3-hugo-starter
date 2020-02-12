@@ -2,7 +2,6 @@
 author = "Mostapha Benhenda"
 date = 2020-02-12T10:30:19Z
 description = "National Healthcare Services (NHS) is the public medical system (hospitals, clinics) of the United Kingdom, a kind of ‘Medicare for all’ that makes British people healthy."
-draft = true
 feature_image = ""
 tags = []
 title = "NHS Data (public health data) should be free, and not for sale"
